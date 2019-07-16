@@ -1,7 +1,7 @@
 FSharpCards
 ======================
 
-Currently just a private project I put together while learning F#
+Just a private project I put together while learning F#
 
 ## Table of content
 
